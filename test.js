@@ -1,7 +1,7 @@
-elements.test_dark_pixel = {
-    color: "#5500aa",
-    behavior: behaviors.POWDER,
-    category: "dark",
+elements.debug_block = {
+    color: "#00ff00",
+    behavior: behaviors.WALL,
+    category: "special",
     state: "solid",
-    density: 1500
+    density: 9999
 };
